@@ -1,5 +1,9 @@
 Topic of Strings
 ===
+* [Java Strings Introduction](#java-strings-introduction)
+* [Java Substring](#java-substring)
+* [Compare](#compare)
+
 ## Java Strings Introduction
 ### Methods
 * `Character.toUpperCase(chart)`
@@ -21,10 +25,12 @@ When you capitalize the first letter of both  and  and then print them separated
 Helloworld
 3 7
 ```
+
 ### Sample Output
 ```
 lowo
 ```
+
 ### [Track](https://www.hackerrank.com/challenges/java-substring)
 ### [Solution](./strings/SubString.java)
 
@@ -36,15 +42,18 @@ Given a string, find out the lexicographically smallest and largest substring of
 ### Methods
 * `String.compare(a)`
 * `String.substring(start, end)`
+
 ### Sample Input
 ```
 welcometojava
 3
 ```
+
 ### Sample Output
 ```
 ava
 wel
 ```
+
 ### [Track](https://www.hackerrank.com/challenges/java-string-compare)
 ### [Solution](./strings/Compare.java)
