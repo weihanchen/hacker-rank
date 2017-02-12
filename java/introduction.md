@@ -1,5 +1,8 @@
 Topic of Introduction
 ===
+* [Java Output Formatting](#java-output-formatting)
+* [Java Loops I](#java-loops-i)
+
 ## Java Output Formatting
 
 ### Sample Input
