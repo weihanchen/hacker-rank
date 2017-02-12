@@ -10,3 +10,4 @@ javac xxx.java //compile java
 java xxx //run program
 ```
 * [Introduction](./java/introduction.md)
+* [Strings](./java/strings.md)

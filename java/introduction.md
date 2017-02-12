@@ -22,6 +22,8 @@ Each String is left-justified with trailing whitespace through the first  charac
 ### [Solution](./introduction/OutputFormatting.java)
 
 ## Java Loops I
+### Methods
+* `String.compareTo()`
 
 ### Sample Input
 ```
