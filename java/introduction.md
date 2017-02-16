@@ -70,3 +70,40 @@ We use the integers , , and  to create the following series:
 
 ### [Track](https://www.hackerrank.com/challenges/java-loops)
 ### [Solution](./introduction/LoopII.java)
+
+## Java Datatypes
+
+### Input Format
+```
+5
+-150
+150000
+1500000000
+213333333333333333333333333333333333
+-100000000000000
+```
+
+### Sample Output
+```
+-150 can be fitted in:
+* short
+* int
+* long
+150000 can be fitted in:
+* int
+* long
+1500000000 can be fitted in:
+* int
+* long
+213333333333333333333333333333333333 can't be fitted anywhere.
+-100000000000000 can be fitted in:
+* long
+```
+
+### Explanation
+-150 can be stored in a short, an int, or a long.
+
+213333333333333333333333333333333333 is very large and is outside of the allowable range of values for the primitive data types discussed in this problem.
+
+### [Track](https://www.hackerrank.com/challenges/java-datatypes)
+### [Solution](./introduction/Datatypes.java)
