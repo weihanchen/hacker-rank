@@ -16,3 +16,8 @@ Topic of Introduction
 
 ### [Track](https://www.hackerrank.com/challenges/30-operators)
 ### [Solution](./java/Day2.java)
+
+## Day of 4 - Class vs. Instance
+
+### [Track](https://www.hackerrank.com/challenges/30-class-vs-instance)
+### [Solution](./java/Day4.java)
