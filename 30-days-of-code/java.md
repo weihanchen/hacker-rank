@@ -21,3 +21,12 @@ Topic of Introduction
 
 ### [Track](https://www.hackerrank.com/challenges/30-class-vs-instance)
 ### [Solution](./java/Day4.java)
+
+## Day of 6
+
+### [Track](https://www.hackerrank.com/challenges/30-review-loop)
+### [Solution](./java/Day6.java)
+
+## Day of 7
+### [Track](https://www.hackerrank.com/challenges/30-arrays?h_r=next-challenge&h_v=zen)
+### [Solution](./java/Day7.java)
