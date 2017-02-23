@@ -22,11 +22,23 @@ Topic of Introduction
 ### [Track](https://www.hackerrank.com/challenges/30-class-vs-instance)
 ### [Solution](./java/Day4.java)
 
-## Day of 6
+## Day of 6 - Review Loop
 
 ### [Track](https://www.hackerrank.com/challenges/30-review-loop)
 ### [Solution](./java/Day6.java)
 
-## Day of 7
+## Day of 7 - Arrays
 ### [Track](https://www.hackerrank.com/challenges/30-arrays?h_r=next-challenge&h_v=zen)
 ### [Solution](./java/Day7.java)
+
+## Day of 8 - Dictionaries and Maps
+### [Track](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)
+### [Solution](./java/Day8.java)
+
+## Day of 9 - Recursion
+### [Track](https://www.hackerrank.com/challenges/30-recursion?h_r=next-challenge&h_v=zen)
+### [Solution](./java/Day9.java)
+
+## Day of 10 - Binary Numbers
+### [Track](https://www.hackerrank.com/challenges/30-binary-numbers)
+### [Solution](./java/Day10.java)
