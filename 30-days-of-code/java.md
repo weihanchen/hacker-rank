@@ -42,3 +42,7 @@ Topic of Introduction
 ## Day of 10 - Binary Numbers
 ### [Track](https://www.hackerrank.com/challenges/30-binary-numbers)
 ### [Solution](./java/Day10.java)
+
+## Day of 11 - 2D Arrays
+### [Track](https://www.hackerrank.com/challenges/30-2d-arrays)
+### [Solution](./java/Day11.java)
