@@ -46,3 +46,7 @@ Topic of Introduction
 ## Day of 11 - 2D Arrays
 ### [Track](https://www.hackerrank.com/challenges/30-2d-arrays)
 ### [Solution](./java/Day11.java)
+
+## Day of 12 - Inheritance
+### [Track](https://www.hackerrank.com/challenges/30-inheritance)
+### [Solution](./java/Day12.java)
