@@ -50,3 +50,7 @@ Topic of Introduction
 ## Day of 12 - Inheritance
 ### [Track](https://www.hackerrank.com/challenges/30-inheritance)
 ### [Solution](./java/Day12.java)
+
+## Day of 13 - Abstract Classes
+### [Track](https://www.hackerrank.com/challenges/30-abstract-classes)
+### [Solution](./java/Day13.java)
