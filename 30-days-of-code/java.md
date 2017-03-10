@@ -62,3 +62,7 @@ Topic of Introduction
 ## Day of 15 - Linked List
 ### [Track](https://www.hackerrank.com/challenges/30-linked-list)
 ### [Solution](./java/Day15.java)
+
+## Day of 16 - Exceptions String to Integer
+### [Track](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)
+### [Solution](./java/Day16.java)
