@@ -58,3 +58,7 @@ Topic of Introduction
 ## Day of 14 - Scope
 ### [Track](https://www.hackerrank.com/challenges/30-scope)
 ### [Solution](./java/Day14.java)
+
+## Day of 15 - Linked List
+### [Track](https://www.hackerrank.com/challenges/30-linked-list)
+### [Solution](./java/Day15.java)
