@@ -66,3 +66,7 @@ Topic of Introduction
 ## Day of 16 - Exceptions String to Integer
 ### [Track](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)
 ### [Solution](./java/Day16.java)
+
+## Day of 17 - More Exceptions
+### [Track](https://www.hackerrank.com/challenges/30-more-exceptions)
+### [Solution](./java/Day17.java)
