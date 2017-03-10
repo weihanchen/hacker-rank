@@ -70,3 +70,7 @@ Topic of Introduction
 ## Day of 17 - More Exceptions
 ### [Track](https://www.hackerrank.com/challenges/30-more-exceptions)
 ### [Solution](./java/Day17.java)
+
+## Day of 18 - Queues and Stacks
+### [Track](https://www.hackerrank.com/challenges/30-queues-stacks)
+### [Solution](./java/Day18.java)
