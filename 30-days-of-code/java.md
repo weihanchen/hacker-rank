@@ -74,3 +74,7 @@ Topic of Introduction
 ## Day of 18 - Queues and Stacks
 ### [Track](https://www.hackerrank.com/challenges/30-queues-stacks)
 ### [Solution](./java/Day18.java)
+
+## Day of 19 - Interfaces
+### [Track](https://www.hackerrank.com/challenges/30-interfaces)
+### [Solution](./java/Day19.java)
