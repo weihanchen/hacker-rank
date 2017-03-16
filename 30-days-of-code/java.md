@@ -78,3 +78,7 @@ Topic of Introduction
 ## Day of 19 - Interfaces
 ### [Track](https://www.hackerrank.com/challenges/30-interfaces)
 ### [Solution](./java/Day19.java)
+
+## Day of 20 - Sorting
+### [Track](https://www.hackerrank.com/challenges/30-sorting)
+### [Solution](./java/Day20.java)  
