@@ -82,3 +82,7 @@ Topic of Introduction
 ## Day of 20 - Sorting
 ### [Track](https://www.hackerrank.com/challenges/30-sorting)
 ### [Solution](./java/Day20.java)  
+
+## Day of 21 - Generics
+### [Track](https://www.hackerrank.com/challenges/30-generics)
+### [Solution](./java/Day21.java)
