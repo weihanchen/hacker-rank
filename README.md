@@ -11,3 +11,10 @@ java xxx //run program
 ```
 * [Introduction](./java/introduction.md)
 * [Strings](./java/strings.md)
+
+### Elixir
+```
+cd $folder
+elixir xxx.exs
+```
+* [Introduction](./functional-programming-elixir/introduction.md)
