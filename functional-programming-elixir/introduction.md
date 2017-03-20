@@ -18,3 +18,5 @@ Hello World
 Hello World
 Hello World
 ```
+### [Track](https://www.hackerrank.com/challenges/fp-hello-world-n-times)
+### [Solution](./introduction/hello-world-n-times.exs)
