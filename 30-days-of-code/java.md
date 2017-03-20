@@ -86,3 +86,7 @@ Topic of Introduction
 ## Day of 21 - Generics
 ### [Track](https://www.hackerrank.com/challenges/30-generics)
 ### [Solution](./java/Day21.java)
+
+## Day of 22 - Binary Search Trees
+### [Track](https://www.hackerrank.com/challenges/30-binary-search-trees?h_r=next-challenge&h_v=zen)
+### [Solution](./java/Day22.java)
