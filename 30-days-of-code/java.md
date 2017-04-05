@@ -92,5 +92,21 @@ Topic of Introduction
 ### [Solution](./java/Day22.java)
 
 ## Day of 23 - BST Level-Order Traversal
+### Notes
+level order like:
+```
+			5
+	4				8
+1		3		6		9
+```
+related with tree height level, follow the steps:
+>1. use queue reslove it.
+>2. queue offer root.
+>3. while queue not empty.
+>4. poll from queue and print it.
+>5. travel from left to right.
+
+answer is:
+`5 4 8 1 3 6 9`
 ### [Track](https://www.hackerrank.com/challenges/30-binary-trees)
 ### [Solution](./java/Day23.java)
