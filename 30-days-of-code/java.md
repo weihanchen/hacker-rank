@@ -90,3 +90,7 @@ Topic of Introduction
 ## Day of 22 - Binary Search Trees
 ### [Track](https://www.hackerrank.com/challenges/30-binary-search-trees?h_r=next-challenge&h_v=zen)
 ### [Solution](./java/Day22.java)
+
+## Day of 23 - BST Level-Order Traversal
+### [Track](https://www.hackerrank.com/challenges/30-binary-trees)
+### [Solution](./java/Day23.java)
