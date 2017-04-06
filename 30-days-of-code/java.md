@@ -110,3 +110,9 @@ answer is:
 `5 4 8 1 3 6 9`
 ### [Track](https://www.hackerrank.com/challenges/30-binary-trees)
 ### [Solution](./java/Day23.java)
+
+## Day of 24 - More Linked Lists 
+### Notes
+remove node
+### [Track](https://www.hackerrank.com/challenges/30-linked-list-deletion)
+### [Solution](./java/Day24.java)
