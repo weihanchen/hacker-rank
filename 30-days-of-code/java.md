@@ -116,3 +116,12 @@ answer is:
 remove node
 ### [Track](https://www.hackerrank.com/challenges/30-linked-list-deletion)
 ### [Solution](./java/Day24.java)
+
+## Day of 25 - Running Time and Complexity
+A prime is a natural number greater than  that has no positive divisors other than  and itself. Given a number, , determine and print Prime
+ whether it's  or Not prime.
+
+ O(log n)
+
+ ### [Track](https://www.hackerrank.com/challenges/30-running-time-and-complexity)
+ ### [Solution](./java/Day25.java)
