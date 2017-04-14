@@ -22,9 +22,21 @@ Hello World
 ### [Solution](./introduction/hello-world-n-times.exs)
 
 ## List Replication
+### Notes
+
 * read inputs
 ```elixir
-IO.read(:all)
+IO.read(:stdio, :all)
+```
+* loop
+Because immutability in functional programming, so we cannot use imperative loop, then use recursively instead with.
+```elixir
+defp print(_, times) when times <= 0, do: nil
+
+defp print(msg, times) do
+    IO.puts(msg)
+    print(msg, times - 1)
+end
 ```
 ### Sample Input
 ```
@@ -49,3 +61,6 @@ IO.read(:all)
 4
 4
 ```
+
+### [Track](https://www.hackerrank.com/challenges/fp-list-replication)
+### [Solution](./introduction/list-replication.exs)

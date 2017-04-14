@@ -12,7 +12,7 @@ java xxx //run program
 * [Introduction](./java/introduction.md)
 * [Strings](./java/strings.md)
 
-### Elixir
+### Elixir - functional programming
 ```
 cd $folder
 elixir xxx.exs
