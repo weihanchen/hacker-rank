@@ -1,6 +1,6 @@
 # HackerRank - List Replication
 defmodule Solution do
-
+  # Because immutability in functional programming, so we cannot use imperative loop, then use recursively instead with.
   defp print(_, times) when times <= 0, do: nil
 
   defp print(msg, times) do

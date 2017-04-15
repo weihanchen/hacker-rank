@@ -64,3 +64,27 @@ end
 
 ### [Track](https://www.hackerrank.com/challenges/fp-list-replication)
 ### [Solution](./introduction/list-replication.exs)
+
+## Filter Array Implementation
+The first line contains the delimiter X.
+The next lines each contain an integer until eof as array B.
+We should print all the integers from array B that are less then the given upper limit X.
+### Sample Input
+```
+3
+2
+7
+5
+1
+3
+0
+```
+### Sample Output
+```
+2
+1
+0
+```
+
+### [Track](https://www.hackerrank.com/challenges/fp-filter-array)
+### [Solution](./introduction/filter-array.exs)
