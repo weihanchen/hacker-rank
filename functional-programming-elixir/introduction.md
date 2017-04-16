@@ -116,3 +116,20 @@ Enum.with_index([1,2,3]) => [{100, 1}, {200, 2}, {300, 3}]
 ```
 ### [Track](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list)
 ### [Solution](./introduction/filter-position.exs)
+
+## Array Of N Elements
+### Notes:
+Inspects and writes the given item to the device
+`IO.inspect [1,2,3]`
+when list size too long should add some options like:
+```
+IO.inspect([1,2,3......], limit: :infinity)
+```
+### Sample Input
+```
+10
+```
+### Sample Output
+```
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
