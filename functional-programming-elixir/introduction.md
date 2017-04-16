@@ -69,6 +69,14 @@ end
 The first line contains the delimiter X.
 The next lines each contain an integer until eof as array B.
 We should print all the integers from array B that are less then the given upper limit X.
+### Notes
+filter function when value >= upper_limit then exit otherwise do do_filter/2, the code like below:
+```
+defp do_filter(value, upper_limit) when value >= upper_limit, do: nil
+defp do_filter(value, _) do
+    IO.puts(value)
+end
+```
 ### Sample Input
 ```
 3
@@ -88,3 +96,23 @@ We should print all the integers from array B that are less then the given upper
 
 ### [Track](https://www.hackerrank.com/challenges/fp-filter-array)
 ### [Solution](./introduction/filter-array.exs)
+
+## Filter Positions in a List
+list index in elixir should use `Enum.with_index` transorm like below:
+```
+Enum.with_index([1,2,3]) => [{100, 1}, {200, 2}, {300, 3}]
+```
+### Sample Input
+```
+2
+5
+3
+4
+```
+### Sample Output
+```
+5
+4
+```
+### [Track](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list)
+### [Solution](./introduction/filter-position.exs)
