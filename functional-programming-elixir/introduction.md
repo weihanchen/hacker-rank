@@ -133,3 +133,23 @@ IO.inspect([1,2,3......], limit: :infinity)
 ```
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
+
+### [Track](https://www.hackerrank.com/challenges/fp-array-of-n-elements)
+### [Solution](./introduction/array-of-elements.exs)
+
+## Reverse a List
+
+### Sample Input
+```
+1
+2
+3
+```
+### Sample Output
+```
+3
+2
+1
+```
+### [Track](https://www.hackerrank.com/challenges/fp-reverse-a-list)
+### [Solution](./introducetion/reverse-list.exs)
