@@ -9,6 +9,7 @@ cd $folder
 elixir xxx.exs
 ```
 * [Introduction](./functional-programming-elixir/introduction.md)
+* [Recursion](./functional-programming-elixir/recursion.md)
 
 ### Java - Object oriented
 ```
