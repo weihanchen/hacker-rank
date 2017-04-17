@@ -11,6 +11,7 @@ Topic of Recursion
 10
 ```
 [Track](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd)
+
 [Solution](./recursion/gcd.exs)
 
 ## Fibonacci Numbers
@@ -30,4 +31,5 @@ Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
 1
 ```
 [Track](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers)
+
 [Solution](./recursion/fibonacci-number.exs)

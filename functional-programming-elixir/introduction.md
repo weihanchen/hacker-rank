@@ -152,4 +152,28 @@ IO.inspect([1,2,3......], limit: :infinity)
 1
 ```
 ### [Track](https://www.hackerrank.com/challenges/fp-reverse-a-list)
-### [Solution](./introducetion/reverse-list.exs)
+### [Solution](./introduction/reverse-list.exs)
+
+
+## Sum of Odd Elements
+
+### Sample Input
+```
+3
+2
+4
+6
+5
+7
+8
+0
+1
+```
+
+### Sample Output
+```
+16
+```
+
+### [Track](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)
+### [Solution](./introduction/sum-odd.exs)
