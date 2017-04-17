@@ -192,3 +192,24 @@ IO.inspect([1,2,3......], limit: :infinity)
 ```
 ### [Track](https://www.hackerrank.com/challenges/fp-list-length)
 ### [Solution](./introduction/list-length.exs)
+
+## Update List
+abs
+
+### Sample Input
+```
+2
+-4
+3
+-1
+```
+### Sample Output
+```
+2
+4
+3
+1
+```
+
+### [Track](https://www.hackerrank.com/challenges/fp-update-list)
+### [Solution](./introduction/update-list.exs)
