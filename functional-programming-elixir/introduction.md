@@ -177,3 +177,18 @@ IO.inspect([1,2,3......], limit: :infinity)
 
 ### [Track](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)
 ### [Solution](./introduction/sum-odd.exs)
+
+## List Length
+
+### Sample Input
+```
+1
+2
+3
+```
+### Sample Output
+```
+3
+```
+### [Track](https://www.hackerrank.com/challenges/fp-list-length)
+### [Solution](./introduction/list-length.exs)
