@@ -1,5 +1,15 @@
 Topic of Introduction
 ===
+* [Hello World N Times](#hello-world-n-times)
+* [List Replication](#list-replication)
+* [Filter Array Implementation](#filter-array-implementation)
+* [Filter Positions in a List](#filter-positions-in-a-list)
+* [Array Of N Elements](#array-of-n-elements)
+* [Sum of Odd Elements](#sum-of-odd-elements)
+* [List Length](#list-length)
+* [Update List](#update-list)
+* [Evaluating e^x](#evaluating-ex)
+
 ## Hello World N Times
 ### Notes
 * read line as integer
@@ -213,3 +223,26 @@ abs
 
 ### [Track](https://www.hackerrank.com/challenges/fp-update-list)
 ### [Solution](./introduction/update-list.exs)
+
+## Evaluating e^x
+1 + x + x^2/2! + x^3/3! + ...
+
+### Sample Input
+```
+4
+20.0000
+5.0000
+0.5000
+-0.5000
+```
+
+### Sample Output
+```
+2423600.1887
+143.6895
+1.6487
+0.6065
+```
+
+### [Track](https://www.hackerrank.com/challenges/eval-ex)
+### [Solution](./introduction/evaluating)
