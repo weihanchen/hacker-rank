@@ -1,5 +1,10 @@
 Topic of Recursion
 ===
+* [Computing the GCD](#computing-the-gcd)
+* [Fibonacci Numbers](#fibonacci-numbers)
+* [Pascal's Triangle](#pascal-triangle)
+
+
 ## Computing the GCD
 
 ### Sample Input
@@ -33,3 +38,20 @@ Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
 [Track](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers)
 
 [Solution](./recursion/fibonacci-number.exs)
+
+## Pascal Triangle
+
+### Sample Input
+```
+4
+```
+### Sample Output
+```
+1  
+1 1  
+1 2 1  
+1 3 3 1   
+```
+[Track](https://www.hackerrank.com/challenges/pascals-triangle)
+
+[Solution](./recursion/pascal-triangle.exs)
