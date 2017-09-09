@@ -37,7 +37,7 @@ Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
 ```
 [Track](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers)
 
-[Solution](./recursion/fibonacci-number.exs)
+[Solution](./recursion/fibonacci-numbers.exs)
 
 ## Pascal Triangle
 
