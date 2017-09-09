@@ -3,7 +3,7 @@ Topic of Recursion
 * [Computing the GCD](#computing-the-gcd)
 * [Fibonacci Numbers](#fibonacci-numbers)
 * [Pascal's Triangle](#pascal-triangle)
-
+* [String Mingling](#string-mingling)
 
 ## Computing the GCD
 
@@ -57,6 +57,13 @@ Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
 [Solution](./recursion/pascal-triangle.exs)
 
 ## String Mingling
+### Notes
+String concatenation is done with <>:
+
+```
+iex> "foo" <> "bar"
+"foobar"
+```
 ### Sample Input
 ```
 abc
