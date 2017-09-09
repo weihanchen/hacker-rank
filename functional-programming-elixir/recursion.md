@@ -55,3 +55,17 @@ Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
 [Track](https://www.hackerrank.com/challenges/pascals-triangle)
 
 [Solution](./recursion/pascal-triangle.exs)
+
+## String Mingling
+### Sample Input
+```
+abc
+def
+```
+### Sample Output
+```
+adbecf
+```
+[Tracn](https://www.hackerrank.com/challenges/string-mingling)
+
+[Solution](./recursion/string-mingling.exs)
