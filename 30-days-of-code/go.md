@@ -18,6 +18,9 @@ Topic of Introduction
 ### [Solution](./go/Day3.go)
 
 ## Day of 4 - Class vs. Instance
-
 ### [Track](https://www.hackerrank.com/challenges/30-class-vs-instance)
 ### [Solution](./go/Day4.go)
+
+## Day of 5 - Loops
+### [Track](https://www.hackerrank.com/challenges/30-loops)
+### [Solution](./go/Day5.go)
