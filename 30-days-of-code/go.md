@@ -24,3 +24,7 @@ Topic of Introduction
 ## Day of 5 - Loops
 ### [Track](https://www.hackerrank.com/challenges/30-loops)
 ### [Solution](./go/Day5.go)
+
+## Day of 6 - Let's Review
+### [Track](https://www.hackerrank.com/challenges/30-review-loop)
+### [Solution](./go/Day6.go)
