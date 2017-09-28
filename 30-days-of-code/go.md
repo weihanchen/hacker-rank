@@ -12,3 +12,8 @@ Topic of Introduction
 ## Day of 2
 ### [Track](https://www.hackerrank.com/challenges/30-operators)
 ### [Solution](./go/Day2.go)
+
+## Day of 3
+### [Track]()
+### [Solution](./go/Day3.go)
+
