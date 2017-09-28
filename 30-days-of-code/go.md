@@ -28,3 +28,11 @@ Topic of Introduction
 ## Day of 6 - Let's Review
 ### [Track](https://www.hackerrank.com/challenges/30-review-loop)
 ### [Solution](./go/Day6.go)
+
+## Day of 7 - Arrays
+### [Track](https://www.hackerrank.com/challenges/30-arrays?h_r=next-challenge&h_v=zen)
+### [Solution](./go/Day7.go)
+
+## Day of 8 - Dictionaries and Maps
+### [Track](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)
+### [Solution](./go/Day8.go)
