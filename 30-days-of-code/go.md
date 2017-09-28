@@ -17,3 +17,7 @@ Topic of Introduction
 ### [Track]()
 ### [Solution](./go/Day3.go)
 
+## Day of 4 - Class vs. Instance
+
+### [Track](https://www.hackerrank.com/challenges/30-class-vs-instance)
+### [Solution](./go/Day4.go)
