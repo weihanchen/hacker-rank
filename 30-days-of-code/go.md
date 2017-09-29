@@ -40,3 +40,7 @@ Topic of Introduction
 ## Day of 9 - Recursion
 ### [Track](https://www.hackerrank.com/challenges/30-recursion?h_r=next-challenge&h_v=zen)
 ### [Solution](./go/Day9.go)
+
+## Day of 10 - Binary Numbers
+### [Track](https://www.hackerrank.com/challenges/30-binary-numbers)
+### [Solution](./go/Day10.go)
