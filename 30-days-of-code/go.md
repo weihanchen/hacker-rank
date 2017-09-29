@@ -36,3 +36,7 @@ Topic of Introduction
 ## Day of 8 - Dictionaries and Maps
 ### [Track](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)
 ### [Solution](./go/Day8.go)
+
+## Day of 9 - Recursion
+### [Track](https://www.hackerrank.com/challenges/30-recursion?h_r=next-challenge&h_v=zen)
+### [Solution](./go/Day9.go)
