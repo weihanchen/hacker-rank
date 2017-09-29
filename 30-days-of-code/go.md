@@ -44,3 +44,8 @@ Topic of Introduction
 ## Day of 10 - Binary Numbers
 ### [Track](https://www.hackerrank.com/challenges/30-binary-numbers)
 ### [Solution](./go/Day10.go)
+
+## Day of 11 - 2D Arrays
+### [Track](https://www.hackerrank.com/challenges/30-2d-arrays)
+### [Solution](./go/Day11.go)
+
