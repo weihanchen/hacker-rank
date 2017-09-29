@@ -49,3 +49,11 @@ Topic of Introduction
 ### [Track](https://www.hackerrank.com/challenges/30-2d-arrays)
 ### [Solution](./go/Day11.go)
 
+## Day of 20 - Sorting
+### Notes
+```go
+// swap variables
+b,a = a,b
+```
+### [Track](https://www.hackerrank.com/challenges/30-sorting)
+### [Solution](./go/Day20.go)  
