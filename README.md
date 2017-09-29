@@ -19,3 +19,12 @@ java xxx //run program
 ```
 * [Introduction](./java/introduction.md)
 * [Strings](./java/strings.md)
+* [30-days-of-code](./30-days-of-code/java.md)
+
+### Go
+```
+cd $folder
+go run xxx.go
+```
+
+* [30-days-of-code](./30-days-of-code/go.md)
